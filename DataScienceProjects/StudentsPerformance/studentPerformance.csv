@@ -1,0 +1,21 @@
+student_id,gender,attendance_percentage,study_hours_per_day,math_marks,science_marks,english_marks,parent_education,final_grade
+S001,Male,92,3,78,82,75,Graduate,B
+S002,Female,85,2,65,70,72,High School,C
+S003,Male,60,1,40,45,50,High School,D
+S004,Female,95,4,88,90,85,Post Graduate,A
+S005,Male,70,2,55,60,58,Graduate,C
+S006,Female,88,3,75,78,80,Graduate,B
+S007,Male,50,1,35,40,38,None,F
+S008,Female,98,5,92,94,96,Post Graduate,A
+S009,Male,80,3,68,70,65,Graduate,C
+S010,Female,90,4,85,88,90,Graduate,A
+S011,Male,76,2,60,63,59,High School,C
+S012,Female,82,3,72,75,78,Graduate,B
+S013,Male,65,2,50,55,52,None,D
+S014,Female,93,4,87,89,91,Post Graduate,A
+S015,Male,58,1,42,48,45,High School,D
+S016,Female,88,3,79,81,83,Graduate,B
+S017,Male,72,2,58,62,60,Graduate,C
+S018,Female,96,5,90,92,94,Post Graduate,A
+S019,Male,67,2,53,57,55,High School,C
+S020,Female,85,3,74,76,78,Graduate,B
